@@ -244,16 +244,13 @@ This project demonstrates:
 
 👨‍💻 Author
 
-Amruth Swamy C P
+Anoop BR
 
 Cloud | DevOps | SRE Engineer
 
 GitHub:
-https://github.com/amruthswamywork
+https://github.com/anoop-br
 
 LinkedIn:
-https://www.linkedin.com/in/amruthswamycp079/
+https://www.linkedin.com/in/anoop-b-r-44289a301/
 
-Portfolio:
-https://amruthswamywork.github.io/Amruthswamy_Cloud-DevOps-SRE_Engineer_portfolio-/# CloudVoyager---Scalable-Travel-Platform
-git  
